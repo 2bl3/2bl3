@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Geovanni Graziano infrastructure engineering and cybersecurity banner">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10253B"/><stop offset="1" stop-color="#203D58"/></linearGradient>
+ <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#9DC2D4" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="300" fill="url(#bg)"/><rect width="1200" height="300" fill="url(#grid)"/>
+<path d="M770 300L990 80L1200 195" fill="none" stroke="#0E9CA5" stroke-width="2" opacity=".6"/>
+<path d="M870 300L1100 70L1200 170" fill="none" stroke="#F2B84B" stroke-width="2" opacity=".55"/>
+<g stroke="#66C7CB" fill="#10253B" stroke-width="2" opacity=".8"><circle cx="990" cy="80" r="6"/><circle cx="1100" cy="70" r="6"/><circle cx="1200" cy="195" r="6"/><circle cx="870" cy="300" r="6"/></g>
+<rect x="64" y="63" width="7" height="171" rx="3" fill="#F2B84B"/>
+<text x="96" y="121" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700">Geovanni Graziano</text>
+<text x="98" y="168" fill="#80D5D6" font-family="Arial,Helvetica,sans-serif" font-size="24" letter-spacing="1.2">INFRASTRUCTURE  /  SYSTEMS  /  SECURITY</text>
+<text x="98" y="213" fill="#C9D8E6" font-family="Arial,Helvetica,sans-serif" font-size="19">Building reliable systems. Learning to secure them.</text>
+<path d="M0 279Q240 240 470 282T950 273T1200 281V300H0Z" fill="#087F8C" opacity=".5"/>
+</svg>
