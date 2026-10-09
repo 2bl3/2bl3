@@ -1,17 +1,11 @@
-
 <div align="center">
-  <img src="./assets/banner.svg" alt="Geovanni Graziano | Cybersecurity Student" width="100%" />
-
-  <p>
-    <a href="https://www.linkedin.com/in/geograz/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-14283F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/2bl3" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/GitHub-2bl3-087F8C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <img src="https://img.shields.io/badge/CompTIA-Security%2B-F2B84B?style=for-the-badge&logo=comptia&logoColor=14283F" alt="CompTIA Security+" />
-  </p>
+  <img
+    src="./assets/banner.gif"
+    alt="Geovanni Graziano | Cybersecurity Student at Johnson & Wales University"
+    width="100%"
+  />
 </div>
+
 
 ### About me
 
